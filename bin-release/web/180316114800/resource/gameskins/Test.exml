@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skin.Test" width="640" height="1036" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Scroller id="bigScroller" width="640" height="1036" scrollPolicyV="auto" scrollPolicyH="auto">
+        <e:Group id="bigGroup" name="bigGroup">
+            <e:Scroller id="litScroller" width="840" height="784" y="100" anchorOffsetY="0" scrollPolicyH="auto"
+                        scrollPolicyV="auto">
+                <e:Group id="litGroup" name="litGroup">
+                    <e:Image id="bg" source="bg_jpg" width="840" height="2000" />
+                </e:Group>
+            </e:Scroller>
+        </e:Group>
+    </e:Scroller>
+</e:Skin>

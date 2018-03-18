@@ -1,0 +1,44 @@
+{
+	"native": {
+		"path_ignore": []
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "5.0.13",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "eui"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "weixinapi",
+			"path": "./libsrc"
+		},
+		{
+			"name": "md5",
+			"path": "../modules/md5/libsrc"
+		},
+		{
+			"name": "puremvc",
+			"path": "../modules/puremvc"
+		},
+		{
+			"name": "promise",
+			"path": "./promise"
+		}
+	]
+}

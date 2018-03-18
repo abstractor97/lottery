@@ -1,0 +1,17 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.min.js",
+		"libs/modules/egret/egret.web.min.js",
+		"libs/modules/eui/eui.min.js",
+		"libs/modules/res/res.min.js",
+		"libs/modules/game/game.min.js",
+		"libs/modules/tween/tween.min.js",
+		"libsrc/bin/weixinapi/weixinapi.min.js",
+		"libs/modules/md5/md5.min.js",
+		"libs/modules/puremvc/puremvc.min.js",
+		"promise/promise.min.js"
+	],
+	"game": [
+		"main.min.js"
+	]
+}
