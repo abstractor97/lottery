@@ -108,7 +108,7 @@ class Main extends eui.UILayer {
         // game.AppFacade.getInstance().sendNotification(SceneNotify.OPEN_INDEX);
         // game.AppFacade.getInstance().sendNotification(PanelNotify.OPEN_REGISTER);
 
-
+        //dsfdsfd
 
     }
 }
