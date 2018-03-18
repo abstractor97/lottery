@@ -108,8 +108,7 @@ class Main extends eui.UILayer {
         // game.AppFacade.getInstance().sendNotification(SceneNotify.OPEN_INDEX);
         // game.AppFacade.getInstance().sendNotification(PanelNotify.OPEN_REGISTER);
 
-        let p1 = new Page1();
-        this.addChild(p1);
+
 
     }
 }
